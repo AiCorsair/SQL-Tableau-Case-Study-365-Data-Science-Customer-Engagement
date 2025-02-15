@@ -61,5 +61,22 @@ Why didn't around half of the students watch any content? This could be due to u
 The monthly onboarding rate fluctuates between `46.29%` and `64.54%`, with the highest rate of `64.54%` in October. However, our data didn’t include the last `11` days of October in the analysis.
 
 
-### 2. 
+### 2. Which courses are the most watched by students? How high is their average rating?
 
+The most watched course is "Introduction to Data and Data Science," with `333,265.90` total minutes watched. This is expected, as it’s an introductory course and a common starting point for students. With around `2` hours of content, it was watched for an average of `39.09` minutes and has an impressive average rating of `4.86` from `572` total ratings.
+
+"SQL" is the second most watched course, with `234,824.80` total minutes watched. On average, students watched `144.60` minutes of this course, which has `11` hours of content. SQL is a key skill for anyone pursuing a career in data science or data analysis.
+
+Other highly watched courses include "Statistics," "Introduction to Excel," and "Python Programmer Bootcamp." The average ratings for these five courses range from `4.78` to `4.86`, reflecting excellent feedback given the high number of total ratings (between `101` and `572`).
+
+
+### 3. How do the total and average minutes watched change based on whether a student paid for a subscription?
+
+During the entire analysis period, free-plan students watched a total of `490,762` minutes, while paying students watched `1,344,826` minutes. This significant difference is expected, as free-plan students generally have less motivation to study, and their content access is limited to `30` minutes per course. In contrast, paying students are more committed, seeking better value for their investment, and can access all content.
+
+The difference in average minutes watched is also notable. Free-plan students watch an average of `28.96` minutes, while paying students watch about `669.4` minutes on average.
+
+An interesting spike occurs between August `15` and `18`, when free-plan students' average minutes watched increases to `73.8` minutes. This is due to 365 Data Science offering free access to all its students during this period, which boosted engagement.
+
+
+### 4. 
