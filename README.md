@@ -45,3 +45,21 @@ Finally, we exported the retrieved data to CSV files with matching names and imp
 
 ## IV. Answering Key Questions
 
+
+### 1. How many students registered for 365 Data Science during our analysis period? What’s the total percentage of onboarded students? How does the monthly onboarding rate fluctuate?
+
+The KPI for total students registered shows `35,230` students registered on the platform during the analysis period. The percentage of onboarded students is `51.54%`, meaning just over half of the registered students engaged with the platform.
+
+Why didn't around half of the students watch any content? This could be due to user experience issues, difficulty finding interesting content, or not knowing where to start. To address this, we suggest:
+
+-	Testing the platform for potential issues.
+
+-	Following up with users who didn’t watch any content to understand their experience, and possibly adding missing content if needed.
+
+-	Enhancing the user journey by guiding them to a structured learning path with rich data projects.
+
+The monthly onboarding rate fluctuates between `46.29%` and `64.54%`, with the highest rate of `64.54%` in October. However, our data didn’t include the last `11` days of October in the analysis.
+
+
+### 2. 
+
