@@ -12,7 +12,7 @@
 
 In this project, we built a three-page Tableau dashboard with key metrics and visualizations to track student engagement with the 365 Data Science platform from January `1` to October `20, 2022`.
 
-We retrieved data from the 365 Data Science database using MySQL, which includes real-life records on students, purchases, and courses. Finally, we answered key questions to help the company better understand customer registration, engagement, and demographic patterns.
+We retrieved data from the 365 Data Science database using MySQL, which includes real-life records on students, purchases, and courses. Finally, we answered key questions to help the company better understand customer registration, engagement, and demographic patterns. This helps refine marketing strategies, tailor course offerings, and boost user retention, ultimately driving business growth.
 
 We designed queries to extract data from `365 User Database.sql` and stored them in three files:
 
