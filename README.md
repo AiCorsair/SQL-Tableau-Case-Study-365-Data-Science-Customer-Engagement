@@ -79,4 +79,15 @@ The difference in average minutes watched is also notable. Free-plan students wa
 An interesting spike occurs between August `15` and `18`, when free-plan students' average minutes watched increases to `73.8` minutes. This is due to 365 Data Science offering free access to all its students during this period, which boosted engagement.
 
 
-### 4. 
+### 4. Did the students spend more time watching courses as months passed? Did their watch time vary seasonally?
+
+We observed a significant peak in total minutes watched by free-plan students in August, which resulted from the Free-Days campaign run by the 365 Data Science marketing team. However, this increase did not affect paying students, as they already had full access to the platform and weren't impacted by the campaign.
+
+In general, students spent more time watching courses from June to October. It's important to note that October's data only includes `20` days, as the last `11` days were not part of the analysis.
+
+
+### 5. Which countries have the most students registered based on their subscription type? Does this number scale proportionally with the total minutes watched per country?
+
+Between January `1` and October `20, 2022`, the countries with the most free-plan students are India (`6,864`), the USA (`4,313`), and Egypt (`2,990`). For paying students, the USA leads (`679`), followed by India, the UK, and Canada.
+
+While there is a positive correlation between the total number of students and total minutes watched per country, the numbers do not always scale proportionally.
